@@ -63,13 +63,13 @@ This new format repeats several times the locales, but it presents the following
  - the missing translations are quicker to spot
  - as the translations for one key are gathered in one place, it is not necessary to browse several files to translate a value in every languages
 
-## exercise
+## Exercise
 
 When the translation file is consequent (several thousands lines), and the number of languages is high, it can be painful to migrate without automation.
 
 Would you be able to write a script to automate the work ? A test driven approach is advised !
 
-## tips
+## Tips
 
 This section is optional. It presents several technical functions that will help you trough the exercise.
 
@@ -82,7 +82,7 @@ This section is optional. It presents several technical functions that will help
 
 </details>
 
-## help
+## Help
 
 This section is optional. It will help you get through the exercise by giving you general advices and directions. :warning: It contains spoils regarding a technique to get trough. Unfurl at your own risks ! :warning:
 
@@ -96,6 +96,7 @@ If you don't know how to begin, consider doing the exercise step by step:
 * then you can create a function capable of migrating several nested keys, for a more complex hash
 * then you can create a function capable of migrating a full file
 * then you can create a function capable of migrating several files (for several languages)
+
 </details>
 
 Algorithms tips:
@@ -104,7 +105,7 @@ Algorithms tips:
 </details>
 </details>
 
-### Credits
+## Credits
 
 * Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations [test set](https://github.com/lalibertad/consul/tree/master/config/locales)
-* Thanls to [sunny](https://github.com/sunny) for the design of the flat translation format
+* Thanks to [sunny](https://github.com/sunny) for the design of the flat translation format
