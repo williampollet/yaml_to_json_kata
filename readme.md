@@ -90,11 +90,11 @@ This section is optional. It will help you get through the exercise by giving yo
 
 General advices on the approach:
 <details>
-  If you don't know how to begin, consider doing the exercise step by step:
-   * first create a small function capable of migrating a simple key, for a simple hash
-   * then you can create a function capable of migrating several nested keys, for a more complex hash
-   * then you can create a function capable of migrating a full file
-   * then you can create a function capable of migrating several files (for several languages)
+If you don't know how to begin, consider doing the exercise step by step:
+* first create a small function capable of migrating a simple key, for a simple hash
+* then you can create a function capable of migrating several nested keys, for a more complex hash
+* then you can create a function capable of migrating a full file
+* then you can create a function capable of migrating several files (for several languages)
 </details>
 
 Algorithms tips:
