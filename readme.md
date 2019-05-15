@@ -102,3 +102,5 @@ Algorithms tips:
  You are stuck and you would like a tip on the algorithm to implement? A recursive strategy can help. Any other approach is welcome though
 </details>
 </details>
+
+Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations test set ! [ref](https://github.com/lalibertad/consul/tree/master/config/locales)
