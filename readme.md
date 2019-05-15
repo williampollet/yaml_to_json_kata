@@ -91,6 +91,7 @@ This section is optional. It will help you get through the exercise by giving yo
 General advices on the approach:
 <details>
 If you don't know how to begin, consider doing the exercise step by step:
+
 * first create a small function capable of migrating a simple key, for a simple hash
 * then you can create a function capable of migrating several nested keys, for a more complex hash
 * then you can create a function capable of migrating a full file
@@ -105,4 +106,5 @@ Algorithms tips:
 
 ### Credits
 
-Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations test set ! [ref](https://github.com/lalibertad/consul/tree/master/config/locales)
+* Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations [test set](https://github.com/lalibertad/consul/tree/master/config/locales)
+* Thanls to [sunny](https://github.com/sunny) for the design of the flat translation format
