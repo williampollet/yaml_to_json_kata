@@ -103,4 +103,6 @@ Algorithms tips:
 </details>
 </details>
 
+### Credits
+
 Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations test set ! [ref](https://github.com/lalibertad/consul/tree/master/config/locales)
