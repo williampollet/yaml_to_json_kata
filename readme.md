@@ -107,4 +107,4 @@ Algorithms tips:
 ### Credits
 
 * Thanks to [LaLibertad](https://github.com/lalibertad) for providing the translations [test set](https://github.com/lalibertad/consul/tree/master/config/locales)
-* Thanls to [sunny](https://github.com/sunny) for the design of the flat translation format
+* Thanks to [sunny](https://github.com/sunny) for the design of the flat translation format
