@@ -18,7 +18,7 @@ en:
       success: 'the amount of your project has been modified'
 
 # fr.yaml
-en:
+fr:
   admin:
     create:
       success: 'administrateur créé avec succès'
