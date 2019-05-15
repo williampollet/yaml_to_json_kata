@@ -76,7 +76,7 @@ This section is optional. It presents several technical functions that will help
 <details>
 
 * you can use `hash.dig('key1', 'key2', 'key3')` to dig quickly into a deep hash. [ref](https://ruby-doc.org/core-2.3.0_preview1/Hash.html#method-i-dig)
-* the function `hash1.deep_merge(hash2)` will allow you to merge two deep hashes without overriding the former value [ref](https://apidock.com/rails/Hash/deep_merge)
+* the function `hash1.deep_merge(hash2)` will allow you to merge two deep hashes without overriding the former value [ref](https://apidock.com/rails/Hash/deep_merge). As this is a rails function, to have it work you must monkey-patch `Hash` with the code [here](https://github.com/casunlight/rails/blob/master/activesupport/lib/active_support/core_ext/hash/deep_merge.rb)
 * the iterator `inject({})` will allow you to iterate over an array and inject the values you want in a resulting hash [ref](https://apidock.com/ruby/Enumerable/inject)
 * the function `YAML.load_file('path/to/file')` will allow you to load the content of a yaml file and return it in a corresponding hash [ref](https://apidock.com/ruby/YAML/load_file/class)
 
