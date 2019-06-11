@@ -67,7 +67,7 @@ This new format repeats several times the locales, but it presents the following
 
 When the translation file is consequent (several thousands lines), and the number of languages is high, it can be painful to migrate without automation.
 
-Would you be able to write a script to automate the work ? A test driven approach is advised !
+Would you be able to write a script to automate the work ? A test driven approach is advised ! You will find a test set with large translations files in the `test_set` repository
 
 ## Tips
 
